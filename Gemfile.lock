@@ -109,6 +109,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
+  cucumber
   cucumber-sinatra
   foreman
   guard
